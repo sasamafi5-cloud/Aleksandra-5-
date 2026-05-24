@@ -1,0 +1,26 @@
+{
+  "name": "GroceryAI Premium",
+  "short_name": "GroceryAI",
+  "description": "Pametna aplikacija za nabavku sa AI glasovnim asistentom",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#000000",
+  "background_color": "#040408",
+  "lang": "sr",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
